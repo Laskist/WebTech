@@ -1,4 +1,4 @@
-WebTech 
+WebTech HW1
 
 Переадресация на https://dzen.ru/?yredirect=true
 
